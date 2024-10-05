@@ -7,6 +7,9 @@
 main:
   - title: "About"
     url: /
+
+  - title: "Education and Research Experience"
+    url: /edu-research/
     
   - title: "Publications"
     url: /publications/
