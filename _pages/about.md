@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Nartay Aikyn
 Welcome to my personal website! I am a data scientist specializing in computer vision, deep learning, and few-shot learning. Below you'll find my education, research, publications, and skills.
 
 ---
