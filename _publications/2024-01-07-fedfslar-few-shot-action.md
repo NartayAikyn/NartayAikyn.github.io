@@ -1,8 +1,7 @@
 ---
 title: "FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition" 
-permalink: /publication/2024-01-06-fedfslar-few-shot-action 
-excerpt: 'This paper proposes FedFSLAR, a federated learning framework for few-shot action recognition that combines 3D-CNN-based spatiotemporal features with meta-learning. It addresses the challenges of data scarcity and bias in federated settings and validates the framework's effectiveness under non-IID conditions, offering notable advances for FL and FSL in action recognition.' 
-date: 2024-01-06 
+collection: publications 
+category: conferences 
 venue: '2024 IEEE WACV Conference' 
 paperurl: 'https://doi.org/10.1109/WACVW60836.2024.00035' 
 citation: 'N. A. Tu et al., "FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition," <i>2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)</i>, Waikoloa, HI, USA, 2024, pp. 270-279, doi: 10.1109/WACVW60836.2024.00035.'
