@@ -25,8 +25,6 @@ Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vi
 - Third prize in the International Mathematics Competition (2019)
 - Gold medal in the SIAM Mathematics Olympics, Nazarbayev University (2019)
 
----
-
 ### Publications
 1. **Efficient Facial Expression Recognition Framework Based on Edge Computing**  
    _Journal of Supercomputing, 2024_  
@@ -39,8 +37,6 @@ Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vi
 3. **FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition**  
    _IEEE WACV Conference, 2024_  
    [Link to paper](https://doi.org/10.1109/WACVW60836.2024.00035)
-
----
 
 ### Skills
 - **Programming Languages**: Python, Java, C++, C#, Lua, Prolog, Javascript
