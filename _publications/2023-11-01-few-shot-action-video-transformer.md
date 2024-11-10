@@ -3,7 +3,7 @@ title: "Few-shot Action Recognition with Video Transformer"
 collection: publications 
 category: conferences 
 permalink: /publication/2023-11-01-few-shot-action-video-transformer 
-excerpt: 'A few-shot action recognition framework with a Transformer-based feature backbone in meta-learning.' 
+excerpt: 'This paper introduces a few-shot action recognition framework integrating a Video Transformer with meta-learning via ProtoNet. Extensive experiments show superior performance over baselines, with effective transfer learning capabilities in cross-domain scenarios, offering a promising approach for few-shot learning in action recognition.' 
 date: 2023-11-01 
 venue: '2023 IEEE SITIS Conference' 
 slidesurl: 'https://docs.google.com/presentation/d/1hNpsrEDtWVgFHzupThaqJZU5VmMhR7w6kuo0WUJHhAs/edit?usp=sharing' 
