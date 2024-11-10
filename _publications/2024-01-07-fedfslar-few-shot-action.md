@@ -1,5 +1,4 @@
 ---
-title: "FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition" 
 collection: publications 
 category: conferences 
 permalink: /publication/2024-01-06-fedfslar-few-shot-action 
