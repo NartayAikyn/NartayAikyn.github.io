@@ -2,6 +2,8 @@
 title: "FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition" 
 collection: publications 
 category: conferences 
+permalink: /publication/2024-01-07-fedfslar-few-shot-action 
+date: 2024-01-06 
 venue: '2024 IEEE WACV Conference' 
 paperurl: 'https://doi.org/10.1109/WACVW60836.2024.00035' 
 citation: 'N. A. Tu et al., "FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition," <i>2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)</i>, Waikoloa, HI, USA, 2024, pp. 270-279, doi: 10.1109/WACVW60836.2024.00035.'
