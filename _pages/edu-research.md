@@ -3,74 +3,39 @@ permalink: /edu-research
 title: "Education and Research"
 author_profile: true
 ---
-Welcome to my personal website! I am a data scientist specializing in computer vision, deep learning, and few-shot learning. Below you'll find my education, research, publications, and skills.
-
----
 
 ## Education
-### MSc in Data Science, Nazarbayev University (2022-2024)
-- GPA: 3.59 / 4.0
-- Thesis: *An Exploration of Video Transformers for Few-Shot Action Recognition*
 
-### BS in Computer Science, Nazarbayev University (2017-2022)
-- GPA: 3.71 / 4.0
-- Language of Instruction: English
+- **MSc in Data Science**, Nazarbayev University, Kazakhstan  
+  *Aug 2022 – Jun 2024*  
+  GPA: 3.59 / 4.0  
+  Thesis: _An Exploration of Video Transformers for Few-Shot Action Recognition_
 
----
+- **BS in Computer Science**, Nazarbayev University, Kazakhstan  
+  *Aug 2018 – Jun 2022*  
+  GPA: 3.71 / 4.0 (CS Courses GPA: 3.82 / 4.0)  
+  Honors: Diploma of Honor
 
 ## Research Experience
-**Research Assistant**, Nazarbayev University (July 2022 - Present)  
-Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vision Language Model  
-Project: *Edge-assisted activity recognition using skeletal representation and deep learning for video surveillance*
 
----
+### Research Assistant  
+Nazarbayev University, Kazakhstan  
+*July 2022 – Present*  
+Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Edge Computing, Vision Transformers, Vision-Language Models.
 
-## Publications
-1. **Efficient Facial Expression Recognition Framework Based on Edge Computing**  
-   _Journal of Supercomputing, 2024_  
-   [Link to paper](https://doi.org/10.1007/s11227-023-05548-x)
+#### Key Projects
 
-2. **Few-shot Action Recognition with Video Transformer**  
-   _IEEE SITIS Conference, 2023_  
-   [Link to paper](https://doi.org/10.1109/SITIS61268.2023.00027)
+1. **Vision-Language Models for Aerial Video Classification**  
+   Adapted CLIP and other vision-language models to aerial video datasets, achieving state-of-the-art results in action detection for zero-shot, few-shot, and supervised settings.
 
-3. **FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition**  
-   _IEEE WACV Conference, 2024_  
-   [Link to paper](https://doi.org/10.1109/WACVW60836.2024.00035)
+2. **Federated Few-Shot Action Recognition**  
+   Integrated few-shot learning with federated learning frameworks, enhancing performance in federated settings using meta-learning techniques on transformer-based models.
 
----
+3. **Few-Shot Learning for Action Recognition with Video Transformers**  
+   Developed a few-shot action recognition framework leveraging Transformer-based backbones, self-supervised pretraining, and optimized few-shot performance on custom datasets.
 
-## Teaching Assistant Experience
-**Teaching Assistant for CSCI 390 - Artificial Intelligence**, Nazarbayev University (Fall 2022, 2023, 2024)  
-- Assisted with proctoring and grading of exams and assignments.
+4. **Transformer-Based Multi-Stream Human Action Recognition**  
+   Built multi-stream models using RGB, optical flow, and skeletal data, achieving near-state-of-the-art results with transfer learning and keyframe sampling.
 
----
-
-## Honors and Awards
-- Honorable mention in the International Mathematics Competition (2020)
-- Third prize in the International Mathematics Competition (2019)
-- Gold medal in the SIAM Mathematics Olympics, Nazarbayev University (2019)
-
----
-
-## Skills
-- **Programming Languages**: Python, Java, C++, C#, Lua, Prolog, Javascript
-- **Technologies**: PyTorch, OpenCV, Keras, NumPy, Pandas, SciKit-Learn, Matplotlib, MySQL
-- **Languages**: English (Proficient), Kazakh (Native), Chinese (Native), Russian (Intermediate)
-
----
-
-## Hobbies and Interests
-- Open-source Project Contributor
-- Learning Languages
-- Reading Philosophy
-- Video Editing
-- Exercising and Working Out
-- Indie Game Development
-
-## Contact
-Feel free to reach out to me for collaboration or inquiries:  
-**Email**: [nartay990531@gmail.com](mailto:nartay990531@gmail.com)  
-**Phone**: [+7-778-541-2333](tel:+7-778-541-2333)  
-**GitHub**: [NartayAikyn](https://github.com/NartayAikyn)  
-**LinkedIn**: [Nartay Aikyn](https://www.linkedin.com/in/nartay-aikyn/)
+5. **Facial Expression Recognition on Edge Systems**  
+   Designed a FER framework optimized for edge devices, combining deep learning and edge computing to achieve real-time emotion recognition on resource-constrained devices.
