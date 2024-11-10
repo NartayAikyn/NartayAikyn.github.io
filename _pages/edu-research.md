@@ -23,7 +23,7 @@ Nazarbayev University, Kazakhstan
 *July 2022 – Present*  
 Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Edge Computing, Vision Transformers, Vision-Language Models.
 
-#### Key Projects
+### Key Projects
 
 1. **Vision-Language Models for Aerial Video Classification**  
    Adapted CLIP and other vision-language models to aerial video datasets, achieving state-of-the-art results in action detection for zero-shot, few-shot, and supervised settings.
