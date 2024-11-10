@@ -77,12 +77,12 @@ Deep Learning, Computer Vision, Few-Shot Learning, Vision-Language Models.
       - Developed a few-shot action recognition framework with Transformer-based backbones (TimeSformer, Swin Transformer, MViT) and ProtoNet for metric-based meta-learning.
       - Implemented self-supervised pretraining on custom datasets and leveraged pretraining on large datasets to boost transformer model performance in 1-shot and 5-shot tasks.
 
-  4. **Transformer-Based Multi-Stream Human Action Recognition**
-   Jul 2022 - Jan 2023
+  5. **Transformer-Based Multi-Stream Human Action Recognition**
+   Jul 2022 - Jan 2023  
       - Built multi-stream models integrating RGB, optical flow, and skeletal data via feature-level fusion, achieving near-SOTA results through transfer learning and keyframe sampling.
 
 
-  5. **Facial Expression Recognition (FER) on Edge Systems**  
+  7. **Facial Expression Recognition (FER) on Edge Systems**  
    Jan 2022 - Nov 2022  
       - Designed a FER framework optimized for edge devices, combining deep learning and edge computing for low-latency, privacy-preserving emotion recognition.
       - Achieved real-time FER with landmark-based feature engineering and lightweight models, matching SOTA accuracy on resource-constrained devices.
