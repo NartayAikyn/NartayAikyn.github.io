@@ -64,28 +64,28 @@ Deep Learning, Computer Vision, Few-Shot Learning, Vision-Language Models.
 
   1. **Vision-Language Models for Aerial Video Classification**  
    Jun 2024 - present  
-    - Adapted vision-language models (e.g., CLIP) to aerial video datasets (ERA, UAV-Human, MOD20), enhancing frame sampling, prompt generation, and temporal aggregation for action detection.
-    - Conducted extensive testing in zero-shot, few-shot, and fully supervised settings, with an ablation study to optimize methods, achieving SOTA results on benchmark datasets.
+      - Adapted vision-language models (e.g., CLIP) to aerial video datasets (ERA, UAV-Human, MOD20), enhancing frame sampling, prompt generation, and temporal aggregation for action detection.
+      - Conducted extensive testing in zero-shot, few-shot, and fully supervised settings, with an ablation study to optimize methods, achieving SOTA results on benchmark datasets.
 
   2. **Federated Few-Shot Action Recognition**  
    Aug 2023 - Jul 2024  
-    - Contributed to integrating few-shot learning in federated learning frameworks. Conducted experiments with meta-learning techniques (e.g., Prototypical Networks, Reptile) on MViT, Slow-Fast, and R(2+1)D models under both IID and non-IID federated settings.
-    - Conducted extensive testing in zero-shot, few-shot, and fully supervised settings, with an ablation study to optimize methods, achieving SOTA results on benchmark datasets.
+      - Contributed to integrating few-shot learning in federated learning frameworks. Conducted experiments with meta-learning techniques (e.g., Prototypical Networks, Reptile) on MViT, Slow-Fast, and R(2+1)D models under both IID and non-IID federated settings.
+      - Conducted extensive testing in zero-shot, few-shot, and fully supervised settings, with an ablation study to optimize methods, achieving SOTA results on benchmark datasets.
 
   3. **Few-Shot Learning for Action Recognition with Video Transformers**  
    Jan 2023 - Nov 2023  
-    - Developed a few-shot action recognition framework with Transformer-based backbones (TimeSformer, Swin Transformer, MViT) and ProtoNet for metric-based meta-learning.
-    - Implemented self-supervised pretraining on custom datasets and leveraged pretraining on large datasets to boost transformer model performance in 1-shot and 5-shot tasks.
+      - Developed a few-shot action recognition framework with Transformer-based backbones (TimeSformer, Swin Transformer, MViT) and ProtoNet for metric-based meta-learning.
+      - Implemented self-supervised pretraining on custom datasets and leveraged pretraining on large datasets to boost transformer model performance in 1-shot and 5-shot tasks.
 
   4. **Transformer-Based Multi-Stream Human Action Recognition**
    Jul 2022 - Jan 2023
-    - Built multi-stream models integrating RGB, optical flow, and skeletal data via feature-level fusion, achieving near-SOTA results through transfer learning and keyframe sampling.
+      - Built multi-stream models integrating RGB, optical flow, and skeletal data via feature-level fusion, achieving near-SOTA results through transfer learning and keyframe sampling.
 
 
   5. **Facial Expression Recognition (FER) on Edge Systems**  
    Jan 2022 - Nov 2022  
-    - Designed a FER framework optimized for edge devices, combining deep learning and edge computing for low-latency, privacy-preserving emotion recognition.
-    - Achieved real-time FER with landmark-based feature engineering and lightweight models, matching SOTA accuracy on resource-constrained devices.
+      - Designed a FER framework optimized for edge devices, combining deep learning and edge computing for low-latency, privacy-preserving emotion recognition.
+      - Achieved real-time FER with landmark-based feature engineering and lightweight models, matching SOTA accuracy on resource-constrained devices.
 
 
 ## Achievements and Activities
