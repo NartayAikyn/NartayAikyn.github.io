@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m Nartay, a researcher fascinated by how artificial intelligence can push the boundaries of human knowledge and solve real-world challenges. My journey in AI research is driven not only by curiosity but by a strong belief in AI's potential to make a meaningful difference in society. I see responsible AI advancement as a way to increase productivity, empower people to pursue meaningful work, and ultimately create a future where basic human needs are met with ease. This vision aligns with the idea of striving for the [greatest good for the greatest number of people](https://en.wikipedia.org/wiki/Utilitarianism) while treating each person with inherent value, as an [end in themselves](https://en.wikipedia.org/wiki/Immanuel_Kant).
+Hi there! I’m Nartay, a researcher fascinated by how artificial intelligence can push the boundaries of human knowledge and solve real-world challenges. My journey in AI research is driven not only by curiosity but by a strong belief in AI's potential to make a meaningful difference in society. I see responsible AI advancement as a way to increase productivity, empower people to pursue meaningful work, and ultimately create a future where basic human needs are met with ease. This vision aligns with the idea of striving for the [greatest good for the greatest number of people](https://en.wikipedia.org/wiki/Utilitarianism) while treating each person with inherent value, as an [end in themselves](https://en.wikipedia.org/wiki/Kantian_ethics).
 
 Whether it’s advancing computer vision or few-shot learning, my goal is to make AI not only smarter and more adaptable, but also ultimately more beneficial for everyone.
 
