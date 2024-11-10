@@ -13,17 +13,17 @@ Whether it’s advancing computer vision or few-shot learning, my goal is to mak
 
 ---
 
-## Education
+### Education
 - MSc in Data Science, Nazarbayev University (2022-2024)
 - BS in Computer Science, Nazarbayev University (2017-2022)
 
-## Research Experience
-Research Assistant, Nazarbayev University (July 2022 - Present)  
-Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vision Language Model  
+### Research Experience
+- Research Assistant, Nazarbayev University (July 2022 - Present)  
+- Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vision Language Model  
 
 ---
 
-## Publications
+### Publications
 1. Efficient Facial Expression Recognition Framework Based on Edge Computing  
    _Journal of Supercomputing, 2024_  
    [Link to paper](https://doi.org/10.1007/s11227-023-05548-x)
@@ -36,18 +36,18 @@ Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vi
    _IEEE WACV Conference, 2024_  
    [Link to paper](https://doi.org/10.1109/WACVW60836.2024.00035)
 
-## Honors and Awards
+### Honors and Awards
 - Third prize in the International Mathematics Competition (2019)
 - Gold medal in the SIAM Mathematics Olympics, Nazarbayev University (2019)
 
 ---
 
-## Skills
+### Skills
 - Programming Languages: Python, Java, C++, C#, Lua, Prolog, Javascript
 - Technologies: PyTorch, OpenCV, Keras, NumPy, Pandas, SciKit-Learn, Matplotlib, MySQL
 - Languages: English (Proficient), Kazakh (Native), Chinese (Native), Russian (Intermediate)
 
-## Hobbies and Interests
+### Hobbies and Interests
 - Open-source Project Contributor
 - Learning Languages
 - Reading Philosophy
@@ -57,9 +57,9 @@ Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vi
 
 ---
 
-## Contact
+### Contact
 Feel free to reach out to me for collaboration or inquiries:  
-**Email**: [nartay990531@gmail.com](mailto:nartay990531@gmail.com)  
-**Phone**: [+7-778-541-2333](tel:+7-778-541-2333)  
-**GitHub**: [NartayAikyn](https://github.com/NartayAikyn)  
-**LinkedIn**: [Nartay Aikyn](https://www.linkedin.com/in/nartay-aikyn/)
+Email: [nartay990531@gmail.com](mailto:nartay990531@gmail.com)  
+Phone: [+7-778-541-2333](tel:+7-778-541-2333)  
+GitHub: [NartayAikyn](https://github.com/NartayAikyn)  
+LinkedIn: [Nartay Aikyn](https://www.linkedin.com/in/nartay-aikyn/)
