@@ -48,12 +48,12 @@ Whether it’s advancing computer vision or few-shot learning, my goal is to mak
 - Languages: English (Proficient), Kazakh (Native), Chinese (Native), Russian (Intermediate)
 
 ### Hobbies and Interests
-- Open-source Project Contributor
 - Learning Languages
 - Reading Philosophy
 - Video Editing
 - Exercising and Working Out
 - Indie Game Development
+- Open-source Project Contributor
 
 ---
 
