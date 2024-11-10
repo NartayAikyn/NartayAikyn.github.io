@@ -14,18 +14,13 @@ Whether it’s advancing computer vision or few-shot learning, my goal is to mak
 ---
 
 ## Education
-### MSc in Data Science, Nazarbayev University (2022-2024)
-- GPA: 3.59 / 4.0
-- Thesis: *An Exploration of Video Transformers for Few-Shot Action Recognition*
-
-### BS in Computer Science, Nazarbayev University (2017-2022)
-- GPA: 3.71 / 4.0
+- **MSc in Data Science, Nazarbayev University (2022-2024)**
+- **BS in Computer Science, Nazarbayev University (2017-2022)**
 ---
 
 ## Research Experience
 **Research Assistant**, Nazarbayev University (July 2022 - Present)  
 Focus: Deep Learning, Computer Vision, Few-Shot Learning, Federated Learning, Vision Language Model  
-Project: *Edge-assisted activity recognition using skeletal representation and deep learning for video surveillance*
 
 ---
 
@@ -44,14 +39,7 @@ Project: *Edge-assisted activity recognition using skeletal representation and d
 
 ---
 
-## Teaching Assistant Experience
-**Teaching Assistant for CSCI 390 - Artificial Intelligence**, Nazarbayev University (Fall 2022, 2023, 2024)  
-- Assisted with proctoring and grading of exams and assignments.
-
----
-
 ## Honors and Awards
-- Honorable mention in the International Mathematics Competition (2020)
 - Third prize in the International Mathematics Competition (2019)
 - Gold medal in the SIAM Mathematics Olympics, Nazarbayev University (2019)
 
