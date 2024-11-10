@@ -3,7 +3,7 @@ title: "Efficient Facial Expression Recognition Framework Based on Edge Computin
 collection: publications 
 category: manuscripts 
 permalink: /publication/2024-01-01-efficient-fer-edge-computing 
-excerpt: 'An efficient FER framework integrating DL with edge computing for privacy-preserving, low-latency applications.' 
+excerpt: 'This paper presents a novel framework for facial expression recognition (FER) using edge computing to address the challenges of latency, memory usage, and privacy in DL-based FER models. It empirically evaluates various landmark detection models for robust, real-time FER on IoT devices, demonstrating significant improvements in efficiency and performance.' 
 date: 2024-01-01 
 venue: 'Journal of Supercomputing (SJR Q2)' 
 paperurl: 'https://doi.org/10.1007/s11227-023-05548-x' 
