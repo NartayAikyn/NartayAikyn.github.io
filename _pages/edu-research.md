@@ -1,5 +1,5 @@
 ---
-permalink: /edu-research
+permalink: /edu-research/
 title: "Education and Research"
 author_profile: true
 ---
