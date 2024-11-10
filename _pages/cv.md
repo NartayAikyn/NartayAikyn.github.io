@@ -72,7 +72,7 @@ Deep Learning, Computer Vision, Few-Shot Learning, Vision-Language Models.
       - Contributed to integrating few-shot learning in federated learning frameworks. Conducted experiments with meta-learning techniques (e.g., Prototypical Networks, Reptile) on MViT, Slow-Fast, and R(2+1)D models under both IID and non-IID federated settings.
       - Conducted extensive testing in zero-shot, few-shot, and fully supervised settings, with an ablation study to optimize methods, achieving SOTA results on benchmark datasets.
 
-  3. **Few-Shot Learning for Action Recognition with Video Transformers**  
+  3. **Few-Shot Learning for Action Recognition with Video Transformers**
    Jan 2023 - Nov 2023  
       - Developed a few-shot action recognition framework with Transformer-based backbones (TimeSformer, Swin Transformer, MViT) and ProtoNet for metric-based meta-learning.
       - Implemented self-supervised pretraining on custom datasets and leveraged pretraining on large datasets to boost transformer model performance in 1-shot and 5-shot tasks.
